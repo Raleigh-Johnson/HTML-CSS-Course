@@ -1,5 +1,3 @@
-
-
 .font_1 {
 	background-color: black;
 	color: rgb(255, 255, 224);
@@ -8,28 +6,34 @@
 .font_2 {
 	background-color: rgb(255, 255, 224) ;
 	color: black ;
+  text-shadow: 2px 2px red;
 	fontsize: medium;
 	}
-	p {
+
+p {
 	color:green;
   text-align: right;
-
 }
+ul {
+  list-style-type: square;
+  }
 table	{
-	border: 1px solid black;
-}
+	border: 2px solid black;
+  }
 td:hover {
 	background-color: Blue ;
 	color: black ;
-}
+  }
 ul {
 	border: 1px solid silver;
-}
+  text-shadow: gold 2px;
+  }
+
 tr, th {
-	background-color:yellow;
+	background-color:black;
 	color:blck;
-}
+  }
 tr, td {
 	background-color: darkgreen;
 	color:white;
-}
+  }
