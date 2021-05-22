@@ -1,18 +1,35 @@
-<DOCTYPE css>
- <style>
+
+
 .font_1 {
-	background-color: black;	
+	background-color: black;
 	color: rgb(255, 255, 224);
 	font-size: large;
 	}
 .font_2 {
 	background-color: rgb(255, 255, 224) ;
-	color: black ; 
+	color: black ;
 	fontsize: medium;
 	}
 	p {
 	color:green;
-	text-align: right;
+  text-align: right;
 
 }
-</style
+table	{
+	border: 1px solid black;
+}
+td:hover {
+	background-color: Blue ;
+	color: black ;
+}
+ul {
+	border: 1px solid silver;
+}
+tr, th {
+	background-color:yellow;
+	color:blck;
+}
+tr, td {
+	background-color: darkgreen;
+	color:white;
+}

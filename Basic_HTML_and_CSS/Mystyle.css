@@ -1,5 +1,18 @@
-p {
-	color:green;
-	text-align: right;
-
+table	{
+	border: 1px solid black;
+}
+td:hover {
+	background-color: Blue ;
+	color: black ;
+}
+ul {
+	border: 1px solid silver;
+}
+tr, th {
+	background-color:yellow;
+	color:blck;
+}
+tr, td {
+	background-color: darkgreen;
+	color:white;
 }
