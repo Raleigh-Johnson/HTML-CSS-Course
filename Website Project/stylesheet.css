@@ -1,0 +1,34 @@
+title {
+  color: brown;
+  text-shadow: grey;
+}
+body {
+background-color:burlywood;
+}
+p {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: gray;
+}
+.container {  
+  text-align: center;
+  background-color: 300px 300px azure;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 20px;
+}
+.photo img {
+  position: relative;
+  line-height: 0;
+  margin-bottom: 2em;
+  overflow: hidden;
+  border-radius: 8px;
+  padding: 1px;
+  border: 1px solid grey;
+  background-color: rgba(0, 0, 0, 0.116);
+}
+
+.photo:hover {
+  
+}
