@@ -7,6 +7,7 @@ iframe {
     overflow: hidden;
 
 }
+
 h1 {
     background-color: rgb(37, 34, 212);
     font-size: 100px;
@@ -19,9 +20,20 @@ h1 {
     margin-bottom: 200px 200px;
     
 }
-.photo {
+.photo  img {
     margin-top: 0% auto;
     margin-bottom: 0% auto;
-    border: 2px 2px 2px solid black;
-    border-radius:  100000px;
+    border: 2px solid black;
+    border-radius:  10px;
+    
+    height: 8em;
+    width: 12em;
+}
+.footer {
+    text-align: right;
+    text-decoration: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 100px auto;
+    float:right;
+
 }
