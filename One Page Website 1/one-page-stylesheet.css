@@ -8,11 +8,13 @@ iframe {
 
 }
 input {
-    margin-top: 0% auto;
-    margin-bottom: 0% auto;
+    margin-top: auto;
+    margin-bottom: auto;
     border: 2px solid lightblue;
     border-radius: 5px;
     font-family: cursive;
+    width: 12em;
+    
 }
 
 h1 {
